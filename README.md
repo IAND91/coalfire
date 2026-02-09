@@ -78,11 +78,11 @@ The infrastructure follows AWS best practices for network isolation:
     * **Port 80:** Returns "Hello Coalfire!".
     * **Port 8080:** Successfully serves the 2048 game via Docker container.
 * **Health Checks:** Both Target Groups (app and docker) show healthy status in the AWS Console.
-* Full formatted plan file found [here]()
+* Full formatted plan file found [here](https://github.com/IAND91/coalfire/blob/main/infrastructure/tf-plan.json)
 
 ### Diagram and screenshots
 
-* Found in [Images directory]()
+* Found in [Images directory](https://github.com/IAND91/coalfire/tree/main/images)
 
 ---
 
